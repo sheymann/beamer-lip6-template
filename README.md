@@ -17,7 +17,7 @@ Edit the main.tex file with your own content.
 
 ###Additional features
 
-Once the content is ready, comment the line
+Once the content of `main.tex` is ready, comment this line
 ```latex
 \documentclass{beamer}
 ```
