@@ -26,3 +26,6 @@ and compile
 beamer.tex ; handout.tex ; print.tex
 ```
 to generate the handout file and a printable version having 4 slides per page.
+
+###Want to contribute?
+The `TODO.txt` file at the root of the project contains different ideas that would improve *beamer-lip6-template*. You can also fill an [issue ticket](https://github.com/sheymann/beamer-lip6-template/issues) if you find a bug or want to request a new feature.
