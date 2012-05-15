@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.nav
+*.toc
+*.out
+*.snm
+main.pdf
+handout.pdf
+print.pdf
